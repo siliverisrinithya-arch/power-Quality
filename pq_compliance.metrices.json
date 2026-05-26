@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6a13f113d477b985fef4c897"
+  },
+  "timestamp": "2026-05-25T06:49:55.795892",
+  "voltage_LL": 415,
+  "voltage_unbalance": 1.1,
+  "current_unbalance": 7.5,
+  "frequency": 50.01,
+  "power_factor": 0.98,
+  "voltage_THD": 3.2,
+  "current_TDD": 4.5,
+  "rms_voltage_pu": 1,
+  "flicker_Pst": 0.65
+},
+{
+  "_id": {
+    "$oid": "6a13f113d477b985fef4c898"
+  },
+  "timestamp": "2026-05-25T06:49:55.796006",
+  "voltage_LL": 352,
+  "voltage_unbalance": 3.4,
+  "current_unbalance": 22.5,
+  "frequency": 50.02,
+  "power_factor": 0.89,
+  "voltage_THD": 4.1,
+  "current_TDD": 11.2,
+  "rms_voltage_pu": 0.65,
+  "flicker_Pst": 0.82
+},
+{
+  "_id": {
+    "$oid": "6a13f113d477b985fef4c899"
+  },
+  "timestamp": "2026-05-25T06:49:55.796096",
+  "voltage_LL": 485,
+  "voltage_unbalance": 1.5,
+  "current_unbalance": 12.1,
+  "frequency": 49.82,
+  "power_factor": 0.96,
+  "voltage_THD": 7.4,
+  "current_TDD": 16.8,
+  "rms_voltage_pu": 1.45,
+  "flicker_Pst": 1.35
+},
+{
+  "_id": {
+    "$oid": "6a14713dc0a0c6aba416763d"
+  },
+  "timestamp": "2026-05-25 21:40:00",
+  "voltage_LL": 420,
+  "voltage_unbalance": 1,
+  "current_unbalance": 5,
+  "frequency": 50,
+  "power_factor": 0.99,
+  "voltage_THD": 2.5,
+  "current_TDD": 4.2,
+  "rms_voltage_pu": 1,
+  "flicker_Pst": 0.2,
+  "status": "Compliant",
+  "violations": []
+},
+{
+  "_id": {
+    "$oid": "6a147cabfe3a5074ec47b770"
+  },
+  "timestamp": "2026-05-25 22:50:00",
+  "voltage_LL": 416.2,
+  "voltage_unbalance": 0.9,
+  "current_unbalance": 4.8,
+  "frequency": 50.01,
+  "power_factor": 0.98,
+  "voltage_THD": 2.1,
+  "current_TDD": 3.9,
+  "rms_voltage_pu": 1,
+  "flicker_Pst": 0.3,
+  "status": "Compliant",
+  "violations": []
+},
+{
+  "_id": {
+    "$oid": "6a15b1d1ef8ec32e17fbf4a8"
+  },
+  "timestamp": "2026-05-26 20:15:00",
+  "voltage_LL": 415.5,
+  "voltage_unbalance": 1.2,
+  "current_unbalance": 2.5,
+  "frequency": 50.02,
+  "power_factor": 0.95,
+  "voltage_THD": 2.1,
+  "current_TDD": 3.8,
+  "rms_voltage_pu": 1.01,
+  "flicker_Pst": 0.45,
+  "status": "Compliant",
+  "violations": []
+}]
